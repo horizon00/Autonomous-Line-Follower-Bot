@@ -15,7 +15,7 @@ Use the architecture as shown in the figure.
 
 ### Step 2
 
-Upload ino file given the repository. 
+Upload ino file given in the repository. 
 
 ### Step 3
 
