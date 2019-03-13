@@ -28,3 +28,7 @@ The following image shows working mechanism of the bot.
 ![alt text](/working_3.gif)
 
 ![alt text](/working_4.gif)
+
+### Final Autonomous Line Follower Bot
+
+![alt text](/final.gif)
